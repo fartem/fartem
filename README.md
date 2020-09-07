@@ -12,3 +12,7 @@ My name is Artem Fomchenkov. I am Android Developer. Living in Russia/Smolensk, 
 - [XDA Labs](https://labs.xda-developers.com/store/author/fartem67)
 - [Google Play](https://play.google.com/store/apps/developer?id=fartem)
 - [Android FileHost](https://androidfilehost.com/?w=profile&uid=8889791610682926718)
+
+## Other sources
+
+- [Android Arsenal](https://android-arsenal.com/user/fartem)
