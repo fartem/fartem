@@ -1,6 +1,6 @@
 ## About me
 
-My name is Artem Fomchenkov. I am Android Developer. Living in Russia/Smolensk, working on [Whisper Art](https://whisperarts.com).
+My name is Artem Fomchenkov. I am Android Developer. Living in Russia/Smolensk, working on [Whisper Arts](https://whisperarts.com).
 
 ## Contact me
 
