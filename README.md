@@ -9,8 +9,8 @@ My name is Artem Fomchenkov. I am Android Developer. Living in Russia/Smolensk, 
 
 ## My Android applications
 
-- [Google Play](https://play.google.com/store/apps/developer?id=fartem)
-- [Android FileHost](https://androidfilehost.com/?w=profile&uid=8889791610682926718)
+- [Hash Checker](https://github.com/hash-checker/hash-checker)
+- [Hash Checker Lite](https://github.com/hash-checker/hash-checker)
 
 ## Other sources
 
