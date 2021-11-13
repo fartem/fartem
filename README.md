@@ -1,10 +1,10 @@
 ## About me
 
-My name is Artem Fomchenkov. I am Android/Flutter Developer. Living in Russia/Smolensk, working on [USERSTORY](https://userstory.ru).
+My name is Artem Fomchenkov. I am Android/Flutter Developer. Living in Russia/Smolensk, working at [USERSTORY](https://userstory.ru).
 
-## Contact me
+## Contacts
 
-- Email: artem.fomchenkov@outlook.com
+- email: artem.fomchenkov@outlook.com
 
 ## My Android applications
 
@@ -29,6 +29,21 @@ My name is Artem Fomchenkov. I am Android/Flutter Developer. Living in Russia/Sm
 
 - [Codewars](https://www.codewars.com/users/fartem)
 - [LeetCode](https://leetcode.com/fartem)
+
+## Codewars solutions
+
+- [Java](https://github.com/fartem/codewars-java)
+- [Kotlin](https://github.com/fartem/codewars-kotlin)
+- [Ruby](https://github.com/fartem/codewars-ruby)
+- [JavaScript](https://github.com/fartem/codewars-javascript)
+- [C Sharp](https://github.com/fartem/codewars-c-sharp)
+- [Groovy](https://github.com/fartem/codewars-groovy)
+- [Python](https://github.com/fartem/codewars-python)
+
+## LeetCode solutions
+
+- [Java](https://github.com/fartem/leetcode-java)
+- [SQL](https://github.com/fartem/leetcode-sql)
 
 ## Forums
 
