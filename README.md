@@ -20,11 +20,6 @@ My name is Artem Fomchenkov. I am Android/Flutter Developer. Living in Russia/Sm
 - [flutter_rb](https://github.com/fartem/flutter-rb)
 - [dart_enum_to_string_check](https://github.com/fartem/dart-enum-to-string-check)
 
-## Open source projects in other places
-
-- [Android Arsenal](https://android-arsenal.com/user/fartem)
-- [Black Duck Open Hub](https://www.openhub.net/p/hash-checker)
-
 ## Codewars/LeetCode
 
 - [Codewars](https://www.codewars.com/users/fartem)
@@ -49,3 +44,11 @@ My name is Artem Fomchenkov. I am Android/Flutter Developer. Living in Russia/Sm
 
 - [StackOverflow](https://stackoverflow.com/users/10684765/fartem) [EN]
 - [CyberForum](https://www.cyberforum.ru/members/939458.html) [RU]
+
+## Activities
+
+### Public talks
+
+| Date | Title | Event/Organization | Language | Link |
+| --- | --- | --- | --- | --- |
+| 29 Oct 2021 | Stacked: MVVM для Flutter | Архитектура и хранение данных мобильных приложений | RU | Offline only |
