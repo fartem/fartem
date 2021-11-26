@@ -20,6 +20,14 @@ My name is Artem Fomchenkov. I am Android/Flutter Developer. Living in Russia/Sm
 - [flutter_rb](https://github.com/fartem/flutter-rb)
 - [dart_enum_to_string_check](https://github.com/fartem/dart-enum-to-string-check)
 
+## Dev Stack
+
+- [dev-stack](https://github.com/fartem/dev-stack)
+
+## Repository rules
+
+- [repository-rules](https://github.com/fartem/repository-rules)
+
 ## Codewars/LeetCode
 
 - [Codewars](https://www.codewars.com/users/fartem)
