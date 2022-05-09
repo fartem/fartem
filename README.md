@@ -2,38 +2,26 @@
 
 My name is Artem Fomchenkov. I am Android/Flutter Developer. Living in Russia/Smolensk, working at [UserStory](https://userstory.ru).
 
-## Contacts
-
-- email: artem.fomchenkov@outlook.com
-
-## My Android applications
+### My Android applications
 
 - [Hash Checker](https://github.com/hash-checker/hash-checker)
 - [Hash Checker Lite](https://github.com/hash-checker/hash-checker-lite)
 
-## My Android libraries
+### My Android libraries
 
 - [AdaptiveRecyclerView](https://github.com/fartem/adaptive-recycler-view)
 
-## My Dart/Flutter tools
+### My Dart/Flutter tools
 
 - [flutter_rb](https://github.com/fartem/flutter-rb)
 - [dart_enum_to_string_check](https://github.com/fartem/dart-enum-to-string-check)
 
-## Dev Stack
-
-- [dev-stack](https://github.com/fartem/dev-stack)
-
-## Repository rules
-
-- [repository-rules](https://github.com/fartem/repository-rules)
-
-## Codewars/LeetCode
+### Codewars/LeetCode
 
 - [Codewars](https://www.codewars.com/users/fartem)
 - [LeetCode](https://leetcode.com/fartem)
 
-## Codewars solutions
+### Codewars solutions
 
 - [Java](https://github.com/fartem/codewars-java)
 - [Kotlin](https://github.com/fartem/codewars-kotlin)
@@ -43,19 +31,19 @@ My name is Artem Fomchenkov. I am Android/Flutter Developer. Living in Russia/Sm
 - [Groovy](https://github.com/fartem/codewars-groovy)
 - [Python](https://github.com/fartem/codewars-python)
 
-## LeetCode solutions
+### LeetCode solutions
 
 - [Java](https://github.com/fartem/leetcode-java)
 - [SQL](https://github.com/fartem/leetcode-sql)
 
-## Forums
+### Forums
 
 - [StackOverflow](https://stackoverflow.com/users/10684765/fartem) [EN]
 - [CyberForum](https://www.cyberforum.ru/members/939458.html) [RU]
 
-## Activities
+### Activities
 
-### Public talks
+#### Public talks
 
 | Date | Title | Event/Organization | Language | Link |
 | --- | --- | --- | --- | --- |
