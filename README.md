@@ -2,7 +2,7 @@
 
 My name is Artem Fomchenkov. I am Android/Flutter Developer. Living in Russia/Smolensk, working at [UserStory](https://userstory.ru).
 
-## Android:
+## Android
 
 - [Hash Checker](https://github.com/hash-checker/hash-checker)
 - [Hash Checker Lite](https://github.com/hash-checker/hash-checker-lite) (ARCHIVED)
