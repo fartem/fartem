@@ -2,21 +2,18 @@
 
 My name is Artem Fomchenkov. I am Android/Flutter Developer. Living in Russia/Smolensk, working at [UserStory](https://userstory.ru).
 
-### My Android applications
+## Android:
 
 - [Hash Checker](https://github.com/hash-checker/hash-checker)
-- [Hash Checker Lite](https://github.com/hash-checker/hash-checker-lite)
-
-### My Android libraries
-
+- [Hash Checker Lite](https://github.com/hash-checker/hash-checker-lite) (ARCHIVED)
 - [AdaptiveRecyclerView](https://github.com/fartem/adaptive-recycler-view)
 
-### My Dart/Flutter tools
+## Dart/Flutter tools
 
 - [flutter_rb](https://github.com/fartem/flutter-rb)
 - [dart_enum_to_string_check](https://github.com/fartem/dart-enum-to-string-check)
 
-### Codewars/LeetCode
+## Codewars/LeetCode
 
 - [Codewars](https://www.codewars.com/users/fartem)
 - [LeetCode](https://leetcode.com/fartem)
@@ -36,14 +33,12 @@ My name is Artem Fomchenkov. I am Android/Flutter Developer. Living in Russia/Sm
 - [Java](https://github.com/fartem/leetcode-java)
 - [SQL](https://github.com/fartem/leetcode-sql)
 
-### Forums
+## Forums
 
 - [StackOverflow](https://stackoverflow.com/users/10684765/fartem) [EN]
 - [CyberForum](https://www.cyberforum.ru/members/939458.html) [RU]
 
-### Activities
-
-#### Public talks
+## Activities
 
 | Date | Title | Event/Organization | Language | Link |
 | --- | --- | --- | --- | --- |
