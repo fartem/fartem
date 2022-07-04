@@ -10,8 +10,8 @@ My name is Artem Fomchenkov. I am Android/Flutter Developer. Living in Russia/Sm
 
 ## Dart/Flutter tools
 
-- [flutter_rb](https://github.com/fartem/flutter-rb)
-- [dart_enum_to_string_check](https://github.com/fartem/dart-enum-to-string-check)
+- [flutter_rb](https://github.com/flutter-rb/flutter-rb)
+- [dart_enum_to_string_check](https://github.com/dart-common-toolkit/dart-enum-to-string-check)
 
 ## Codewars/LeetCode
 
