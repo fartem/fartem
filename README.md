@@ -5,11 +5,13 @@ My name is Artem Fomchenkov. I am Android/Flutter Developer. Living in Russia/Sm
 ## Android
 
 - [Hash Checker](https://github.com/hash-checker/hash-checker)
-- [Hash Checker Lite](https://github.com/hash-checker/hash-checker-lite) (ARCHIVED)
+- [Hash Checker Lite](https://github.com/hash-checker/hash-checker-lite) [ARCHIVED]
 - [AdaptiveRecyclerView](https://github.com/fartem/adaptive-recycler-view)
 
-## Dart/Flutter tools
+## Dart/Flutter
 
+- [fchan](https://github.com/fartem/fchan) [IN PROGRESS]
+- [Hash Checker 2](https://github.com/hash-checker/hash-checker-2) [IN PROGRESS]
 - [flutter_rb](https://github.com/flutter-rb/flutter-rb)
 - [dart_enum_to_string_check](https://github.com/dart-common-toolkit/dart-enum-to-string-check)
 
