@@ -2,6 +2,13 @@
 
 My name is Artem Fomchenkov. I am Android/Flutter Developer. Living in Russia/Smolensk, working at [UserStory](https://userstory.ru).
 
+### Contacts
+
+- [Email](artem.fomchenkov@outlook.com)
+- [Telegram](https://t.me/fartem67)
+- [Codewars](https://www.codewars.com/users/fartem)
+- [LeetCode](https://leetcode.com/fartem)
+
 ## Android
 
 - [Hash Checker](https://github.com/hash-checker/hash-checker)
@@ -15,12 +22,7 @@ My name is Artem Fomchenkov. I am Android/Flutter Developer. Living in Russia/Sm
 - [flutter_rb](https://github.com/flutter-rb/flutter-rb)
 - [dart_enum_to_string_check](https://github.com/dart-common-toolkit/dart-enum-to-string-check)
 
-## Codewars/LeetCode
-
-- [Codewars](https://www.codewars.com/users/fartem)
-- [LeetCode](https://leetcode.com/fartem)
-
-### Codewars solutions
+## Codewars solutions
 
 - [Java](https://github.com/fartem/codewars-java)
 - [Kotlin](https://github.com/fartem/codewars-kotlin)
@@ -30,7 +32,7 @@ My name is Artem Fomchenkov. I am Android/Flutter Developer. Living in Russia/Sm
 - [Groovy](https://github.com/fartem/codewars-groovy)
 - [Python](https://github.com/fartem/codewars-python)
 
-### LeetCode solutions
+## LeetCode solutions
 
 - [Java](https://github.com/fartem/leetcode-java)
 - [SQL](https://github.com/fartem/leetcode-sql)
