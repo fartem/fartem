@@ -35,6 +35,7 @@ My name is Artem Fomchenkov. I am Android/Flutter Developer. Living in Russia/Sm
 ## LeetCode solutions
 
 - [Java](https://github.com/fartem/leetcode-java)
+- [Dart](https://github.com/fartem/leetcode-dart)
 - [SQL](https://github.com/fartem/leetcode-sql)
 - [Bash](https://github.com/fartem/leetcode-bash)
 
