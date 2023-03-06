@@ -2,13 +2,6 @@
 
 My name is Artem Fomchenkov. I am Android/Flutter Developer. Living in Russia/Smolensk.
 
-### Contacts
-
-- [Email](artem.fomchenkov@outlook.com)
-- [Telegram](https://t.me/fartem67)
-- [Codewars](https://www.codewars.com/users/fartem)
-- [LeetCode](https://leetcode.com/fartem)
-
 ## Android
 
 - [Hash Checker](https://github.com/hash-checker/hash-checker)
