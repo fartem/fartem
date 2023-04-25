@@ -1,6 +1,6 @@
 ## About me
 
-My name is Artem Fomchenkov. I am Android/Flutter Developer. Living in Russia/Smolensk.
+My name is Artem Fomchenkov. I am Software Developer.
 
 ## Android
 
