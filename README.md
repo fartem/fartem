@@ -5,7 +5,7 @@ My name is Artem Fomchenkov. I am Software Developer. Work with:
 - 📱 Mobile: Flutter, Android, iOS
 - 🚀 Shell: Ruby, Dart
 - 🖥 Web: Ruby, Rails, Tailwind
-- 🚀 Custom tooling: Projects checkers, Gradle plugins
+- 🧰 Custom tooling: Projects checkers, Gradle plugins
 - 🛠 Infra: GitHub Actions, Jenkins, GitLab CI
 
 ### Activities
