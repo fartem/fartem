@@ -1,4 +1,4 @@
-### 👋 About me
+## 👋 About me
 
 My name is Artem Fomchenkov. I am Software Developer. Work with:
 
@@ -8,13 +8,13 @@ My name is Artem Fomchenkov. I am Software Developer. Work with:
 - 🧰 Custom tooling: Projects checkers, Gradle plugins
 - 🛠 Infra: GitHub Actions, GitLab CI/CD, Jenkins
 
-### 🎤 Activities
+## 🎤 Activities
 
 | Date        | Title                     | Event/Organization                                 | Language | Link         |
 |-------------|---------------------------|----------------------------------------------------|----------|--------------|
 | 29 Oct 2021 | Stacked: MVVM для Flutter | Архитектура и хранение данных мобильных приложений | RU       | Offline only |
 
-### 📈 Some stats
+## 📈 Some stats
 
 <a href="https://stackoverflow.com/users/10684765/fartem"><img src="https://stackoverflow.com/users/flair/10684765.png" width="208" height="58" alt="Profile for fartem at Stack Overflow"></a>
 <a href="https://www.codewars.com/users/fartem/"><img src="https://www.codewars.com/users/fartem/badges/large" width="456" height="58" alt="Profile for fartem at Codewars"></a>
