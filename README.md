@@ -15,7 +15,7 @@ And, I interviewed several dozes Flutter (plus a little bit native Android) deve
 - **Web:** Ruby, Rails
 - **Backend**: Ruby, Rails
 - **Custom tooling:** Projects checkers, Gradle plugins
-- **Infra:** GitHub Actions, GitLab CI/CD, Jenkins
+- **Infrastructure:** GitHub Actions, GitLab CI/CD, Jenkins
 
 ## 🎤 Activities
 
