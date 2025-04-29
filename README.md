@@ -1,13 +1,21 @@
 ## 👋 About me
 
-My name is Artem Fomchenkov. I am Software Developer. Work with:
+My name is Artem Fomchenkov, Senior Software Engineer.
 
-- 📱 Mobile: Flutter, Android, iOS
-- 🚀 Shell: Ruby, Dart
-- 🖥 Web: Ruby, Rails
-- ⚙️ Backend: Ruby, Rails
-- 🧰 Custom tooling: Projects checkers, Gradle plugins
-- 🛠 Infra: GitHub Actions, GitLab CI/CD, Jenkins
+I had experience in family, e-commerce, ridesharing and betting products on different positions like Backend Developer, Mobile TeamLead, Scrum Master or Delivery Manager.
+
+In addition to this, I have created Dart/Ruby/Rails tools that improve the code base and simplify CI/CD processes in multiple-repository systems + keep good code quality in mobile projects.
+
+And, I interviewed several dozes Flutter (plus a little bit native Android) developers for positions ranging from Junior to Lead.
+
+## 🚀 Skills
+
+- **Mobile:** Flutter, Android, iOS
+- **Shell:** Ruby, Dart
+- **Web:** Ruby, Rails
+- **Backend**: Ruby, Rails
+- **Custom tooling:** Projects checkers, Gradle plugins
+- **Infra:** GitHub Actions, GitLab CI/CD, Jenkins
 
 ## 🎤 Activities
 
