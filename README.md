@@ -1,6 +1,6 @@
 ## 👋 About me
 
-My name is Artem Fomchenkov, Senior Software Engineer.
+My name is Artem Fomchenkov and I am Senior Software Engineer.
 
 I had experience in family, e-commerce, ridesharing and betting products on different positions like Backend Developer, Mobile TeamLead, Scrum Master or Delivery Manager.
 
