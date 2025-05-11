@@ -2,7 +2,7 @@
 
 My name is Artem Fomchenkov and I am Senior Software Engineer.
 
-I had experience in family, e-commerce, ridesharing and betting products on different positions like Backend Developer, Mobile TeamLead, Scrum Master or Delivery Manager.
+I had experience in family, e-commerce, ridesharing and betting products on different positions like Mobile and Backend Developer, TeamLead, Scrum Master or Delivery Manager.
 
 In addition to this, I have created Dart/Ruby/Rails tools that improve the code base and simplify CI/CD processes in multiple-repository systems + keep good code quality in mobile projects.
 
